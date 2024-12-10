@@ -3,7 +3,7 @@
 **Note:** This project is part of my Bachelor's degree in Computer Science Engineering at Politecnico di Milano, Milan (MI), Italy.
 
 **Academic Year:** 2021 / 2022  
-**Authors:** Diego Corna, Filippo Corna  
+**Authors:** Diego Corna
 
 ## Table of Contents
 1. [Introduction](#introduction)
