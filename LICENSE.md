@@ -12,4 +12,4 @@ This project, **HRConvolutionalCode**, is owned by the authors as part of their 
 
 If you wish to use the project for purposes outside of these conditions, please contact the authors for permission.
 
-© 2022 Authors and Politecnico di Milano
+© 2022 Author and Politecnico di Milano
